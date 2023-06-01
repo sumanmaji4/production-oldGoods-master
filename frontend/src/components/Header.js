@@ -34,15 +34,15 @@ const Header = () => {
 
                 <Nav className='ml-auto'>
 
-                {/* { userInfo && ( 
+                {  userInfo && ( 
                   <a target="_blank" href='https://forms.gle/S4yMHBauNWgWTZbD9'>Sell Your Products</a>
-                )} */}
+                )} 
 
-                { userInfo && ( 
+                {/* userInfo && ( 
                   <Nav.Link>
-                      <a target="_blank" href='https://forms.gle/S4yMHBauNWgWTZbD9'>Sell Your Products</a>
+                      <a target='_blank' href='https://forms.gle/S4yMHBauNWgWTZbD9'>Sell Your Products</a>
                   </Nav.Link>
-                )}
+                )*/}
 
                 
                 
